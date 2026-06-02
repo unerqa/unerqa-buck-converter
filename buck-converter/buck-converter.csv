@@ -1,0 +1,7 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"C1","1","680 uF","","","","Capacitor_SMD:CP_Elec_10x10",""
+"C2","1","220 uF","","","","Capacitor_SMD:CP_Elec_8x10.5",""
+"D1","1","SS34","","","","Diode_SMD:D_SMC",""
+"J1,J2","2","Conn_01x02","","","","TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",""
+"L1","1","33uH","","","","Inductor_SMD:L_12x12mm_H8mm",""
+"U1","1","LM2596S-5","","","","Package_TO_SOT_SMD:TO-263-5_TabPin3","http://www.ti.com/lit/ds/symlink/lm2596.pdf"
